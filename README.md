@@ -12,9 +12,13 @@
 
 ## 초기창업패키지
 
-[공고문] 2025년도 초기창업패키지 창업기업 모집 공고.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/02_EarlyStartup/01_doc_모집공고_25.pdf)
+[공고문] 2025년도 초기창업패키지 창업기업 모집 공고.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/02_EarlyStartup/01_doc_2025_사업계획서양식.pdf)
 
-[별첨 3] 2025년도 초기창업패키지 주관기관 소개자료.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/02_EarlyStartup/02_doc_주관기관_25.pdf)
+[별첨 1] 2025년도 초기창업패키지 증빙서류.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/02_EarlyStartup/01_doc_2025_사업계획서양식.pdf)
+
+[별첨 2] 2025년도 초기창업패키지 증빙서류.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/02_EarlyStartup/02_doc_2025_증빙서류.pdf)
+
+[별첨 3] 2025년도 초기창업패키지 주관기관 소개자료.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/02_EarlyStartup/03_doc_2025_주관기관.pdf)
 
 
 
