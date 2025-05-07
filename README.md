@@ -4,7 +4,7 @@
 
 
 ## 예비창업패키지
-
+[별첨 3] 2025년도 초기창업패키지 주관기관 소개자료.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/01_PreStartup/2025년도_예창패키지_주관기관.pdf)
 
 ## 초기창업패키지
 
