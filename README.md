@@ -4,8 +4,10 @@
 
 
 ## 예비창업패키지
-[별첨 1] 2025년도 예비창업패키지 사업계획서.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/01_PreStartup/2025년도_예비창업_사업계획서양식.pdf)
+[별첨 1] 2025년도 예비창업패키지 사업계획서.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/01_PreStartup/2025년도_예비창업_사업계획서양식.pdf) 
+
 [별첨 2] 2025년도 예비창업패키지 증빙서류.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/01_PreStartup/2025년도_예비창업 증빙서류제출목록.pdf)
+
 [별첨 3] 2025년도 예비창업패키지 주관기관 소개자료.pdf [보기](https://ldjwj.github.io/STARTUP_BASIC/01_PreStartup/2025년도_예창패키지_주관기관.pdf)
 
 ## 초기창업패키지
